@@ -2,7 +2,7 @@
 
 请重置工作目录：
 
-    git checkout -f step-6
+    git checkout -f step-8
 
 现在你应该能够看到列表里面手机的图片和链接了。
 

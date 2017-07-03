@@ -2,7 +2,7 @@
 
 请重置工作目录：
 
-    git checkout -f step-5
+    git checkout -f step-7
 
 刷新浏览器，你现在应该能看到一个20部手机的列表。
 

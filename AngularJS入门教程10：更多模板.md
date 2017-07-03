@@ -2,7 +2,7 @@
 
 请重置工作目录：
 
-    git checkout -f step-8
+    git checkout -f step-10
 
 现在当你点击列表中的一部手机之后，这部手机的详细信息页面就会被显示出来。
 

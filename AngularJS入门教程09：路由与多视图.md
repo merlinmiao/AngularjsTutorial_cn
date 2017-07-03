@@ -2,7 +2,7 @@
 
 请重置工作目录：
 
-    git checkout -f step-7
+    git checkout -f step-9
 
 注意到现在当你转到`app/index.html`时，你会被重定向到`app/index.html#/phones`并且相同的手机列表在浏览器中显示了出来。当你点击一个手机链接时，一个手机详细信息列表也被显示了出来。
 

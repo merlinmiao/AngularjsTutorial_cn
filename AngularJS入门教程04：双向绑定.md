@@ -2,7 +2,7 @@
 
 请重置工作目录：
 
-    git checkout -f step-4
+    git checkout -f step-6
 
 你应该发现除了搜索框之外，你的应用多了一个下来菜单，它可以允许控制电话排列的顺序。
 
